@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div>Hello World</div>
+    <div><a href="/">hello</a></div>
   )
 }
 
